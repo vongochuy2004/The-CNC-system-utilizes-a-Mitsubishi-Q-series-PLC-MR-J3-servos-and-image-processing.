@@ -1,0 +1,1 @@
+# The-CNC-system-utilizes-a-Mitsubishi-Q-series-PLC-MR-J3-servos-and-image-processing.
